@@ -1,0 +1,19 @@
+.Primera_Parte{
+    background-color:skyblue;
+    display: flex;
+    justify-content: center;
+}
+.Foto_perro{
+    display: flex;
+    position: center;
+    left: 100px;
+    top: 200px;
+    top: 200px;
+    width: 500px;
+    height: 400px;
+}
+.Texto_Join{
+    margin-left: 175px;
+    position: center;
+}
+
